@@ -1,5 +1,3 @@
-package generic;
-
 public class Main {
     public static void main(String[] args) {
         IntStack stos = new IntStack();
